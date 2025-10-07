@@ -8,6 +8,7 @@ from google.api_core import exceptions
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 import streamlit as st
 
+FLASK_BACKEND_URL = "https://eb58482d-b06c-489e-8871-bb82e35007de-00-2otdbsgz9jitg.sisko.replit.dev/"
 # Configuration
 PAPER_DIR = "papers"
 GOOGLE_API_KEY = "AIzaSyAxwloFIqGSiYe-1EdhPT_O1CvJwel2GIs"  # Replace with your actual API key
