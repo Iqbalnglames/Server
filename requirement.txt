@@ -1,0 +1,7 @@
+arxiv
+Flask
+google-generativeai
+python-dotenv
+typing-extensions
+requests
+streamlit
